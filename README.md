@@ -27,8 +27,8 @@ sh make.sh<br>
 pip install flask fvcore scipy opencv-python<br>
 
 <h1>Training</h1>
-python stage1/complexTrain.py
-python stage2/complexTrain.py
+<h3>python stage1/complexTrain.py</h3>
+<h3>python stage2/complexTrain.py</h3>
 
 <h1>Test</h1>
 <h3>Run TFD-Net as a service</h3>
