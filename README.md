@@ -27,7 +27,9 @@ sh make.sh<br>
 pip install flask fvcore scipy opencv-python<br>
 
 <h1>Training</h1>
-python train/complexTrain.py
+python stage1/complexTrain.py
+python stage2/complexTrain.py
+
 <h1>Test</h1>
 <h3>Run TFD-Net as a service</h3>
 In TFNet_server.py Line 23: Change to your IP. <br>
