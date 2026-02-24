@@ -1,4 +1,4 @@
-<h1>Initial draft, subject to continuous updates during the review process.</h1>
+<h2>Initial draft, subject to continuous updates during the review process.</h1>
 
 <h1>Installation</h1>
 <h2>Requirement</h2>
